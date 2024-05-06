@@ -1,8 +1,9 @@
 <div align="center">
-<b><font size="6">AI4Risk</font></b>
+<b><font size="10">AI4Risk</font></b>
 </div>
 
-![GitHub Org's stars](https://img.shields.io/github/stars/AI4Risk)
+
+![GitHub Org's stars](https://img.shields.io/github/stars/AI4Risk#center)
 
 Welcome to the AI4Risk organization. AI4Risk is mainly developed by research teams of National Collaborative Innovation Center for Internet Financial Security, Tongji University. We keep open-sourcing and collecting awesome AI-powered techniques for financial risk control and management.
 
