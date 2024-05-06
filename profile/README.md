@@ -5,7 +5,7 @@
 
 ![GitHub Org's stars](https://img.shields.io/github/stars/AI4Risk#center)
 
-Welcome to the AI4Risk organization. AI4Risk is mainly developed by research teams of National Collaborative Innovation Center for Internet Financial Security, Tongji University. We keep open-sourcing and collecting awesome AI-powered techniques for financial risk control and management.
+Welcome to the AI4Risk organization. AI4Risk is mainly developed by research teams and collaborators of the National Collaborative Innovation Center for Internet Financial Security. We keep open-sourcing and collecting awesome AI-powered techniques for financial risk control and management, with a special interest on risk control solutions' robustness, bias, privacy, expandability, and efficacy. 
 
 ## Models
 
