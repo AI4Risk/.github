@@ -11,7 +11,7 @@ Welcome to the AI4Risk organization. AI4Risk is mainly developed by research tea
 
 - [Antifraud](https://github.com/AI4Risk/antifraud): a series of AI-based financial fraud detection datasets and models.
 - [Interbank](https://github.com/AI4Risk/interbank): a series of Interbank Risk and Credit Rating: Datasets and Methods.
-- [DeepGraphGenerator](): a series of deep graph generative models. coming soon...
+- [DeepGraphGenerator](https://github.com/AI4Risk/GraphGenerator): a series of deep graph generative models. coming soon...
 
 ## Research Papers
 
