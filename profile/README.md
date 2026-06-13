@@ -15,6 +15,6 @@ Welcome to the AI4Risk organization. AI4Risk is mainly developed by research tea
 
 ## Research Papers
 
-- [Awesome Graph-based Fraud Detection Papers and Codes](https://github.com/AI4Risk/awesome-graph-based-fraud-detection): a collection of graph neural network-based financial fraud detection papers and codes. 
+- [Awesome Fraud Detection Papers and Codes](https://github.com/AI4Risk/awesome-graph-based-fraud-detection): a collection of graph neural network-based financial fraud detection papers and codes. 
 - [Awesome Deep Graph Generator Papers and Codes](https://github.com/AI4Risk/awesome-deep-graph-generator): a collection of deep generative model-based graph generation papers and codes. 
 
